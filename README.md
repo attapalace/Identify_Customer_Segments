@@ -7,7 +7,11 @@ The data here concerns a company that performs mail-order sales in Germany. Thei
 # The following libraries are used in this project:
 
 • NumPy
+
 • pandas
+
 • Sklearn / scikit-learn
+
 • Matplotlib (for data visualization)
+
 • Seaborn (for data visualization)
